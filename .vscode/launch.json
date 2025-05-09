@@ -1,0 +1,15 @@
+{
+	"version": "0.2.0",
+	"configurations":
+	[
+		{
+			"name": "launch",
+			"type": "cppdbg",
+			"request": "launch",
+			"program": "${workspaceFolder}/build/template",
+			"cwd": "${workspaceFolder}",
+			"externalConsole": false,
+			"MIMode": "gdb"
+		}
+	]
+}
